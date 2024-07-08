@@ -1,0 +1,14 @@
+../Core/Src/ApplicationCode.c:137:6:ApplicationInit	8	static
+../Core/Src/ApplicationCode.c:182:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/ApplicationCode.c:194:15:button_state	16	static
+../Core/Src/ApplicationCode.c:199:6:timers_callback	16	static
+../Core/Src/ApplicationCode.c:209:6:buttonTimerCallback	16	static
+../Core/Src/ApplicationCode.c:219:6:physicsTask	32	static
+../Core/Src/ApplicationCode.c:310:5:distance	24	static
+../Core/Src/ApplicationCode.c:320:6:LCD_Display_Task	24	static
+../Core/Src/ApplicationCode.c:337:6:draw_maze	32	static
+../Core/Src/ApplicationCode.c:357:6:LED_output_task	16	static
+../Core/Src/ApplicationCode.c:373:6:startScreen	8	static
+../Core/Src/ApplicationCode.c:422:6:gameOver	8	static
+../Core/Src/ApplicationCode.c:443:6:passGame	8	static
+../Core/Src/ApplicationCode.c:462:6:path	16	static

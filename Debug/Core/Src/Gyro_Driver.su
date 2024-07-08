@@ -1,0 +1,13 @@
+../Core/Src/Gyro_Driver.c:23:6:Gyro_Init	8	static
+../Core/Src/Gyro_Driver.c:37:6:Gyro_Power_On	16	static
+../Core/Src/Gyro_Driver.c:67:6:Gyro_Reboot	16	static
+../Core/Src/Gyro_Driver.c:90:9:Gyro_Get_Velocity_raw	16	static
+../Core/Src/Gyro_Driver.c:109:9:Gyro_Get_x_raw	16	static
+../Core/Src/Gyro_Driver.c:128:9:Gyro_Get_x	24	static
+../Core/Src/Gyro_Driver.c:135:9:Gyro_Get_Velocity	24	static
+../Core/Src/Gyro_Driver.c:146:6:Gyro_Config_Regs	16	static
+../Core/Src/Gyro_Driver.c:198:6:Gyro_HAL_Check	4	static
+../Core/Src/Gyro_Driver.c:208:6:Gyro_Slave_Enable	8	static
+../Core/Src/Gyro_Driver.c:216:6:Gyro_Slave_Disable	8	static
+../Core/Src/Gyro_Driver.c:226:6:Gyro_Receive_Data	16	static
+../Core/Src/Gyro_Driver.c:238:6:Gyro_Transmit_Data	16	static
